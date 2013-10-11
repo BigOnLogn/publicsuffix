@@ -1,0 +1,13 @@
+{
+  "name": "publicsuffix",
+  "version": "0.0.1",
+  "description": "Domain name parser based on the Public Suffix List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "readme": "README.md",
+  "author": "Nick Moore",
+  "license": "BSD"
+}
